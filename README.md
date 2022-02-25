@@ -293,7 +293,7 @@ This project is developed with [Stencil](https://stenciljs.com/).
 
 ## i18n
 
-English, German, Spanish and Dutch are currently supported. More translations are also welcomed!
+English, German, Spanish, Dutch and Korean are currently supported. More translations are also welcomed!
 
 ### Contributions
 
